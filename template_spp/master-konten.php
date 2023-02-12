@@ -48,7 +48,7 @@ include "../template_spp/sidebar.php";
                     </div>
                   </div>
                 </div>
-                <div class="card-icon shadow-primary bg-warning">
+                <div class="card-icon shadow-primary bg-primary">
                   <i class="fas fa-archive"></i>
                 </div>
                 <div class="card-wrap">
@@ -66,7 +66,7 @@ include "../template_spp/sidebar.php";
                 <div class="card-chart">
                   <canvas id="balance-chart" height="80"></canvas>
                 </div>
-                <div class="card-icon shadow-primary bg-warning">
+                <div class="card-icon shadow-primary bg-primary">
                   <i class="fas fa-dollar-sign"></i>
                 </div>
                 <div class="card-wrap">
@@ -84,7 +84,7 @@ include "../template_spp/sidebar.php";
                 <div class="card-chart">
                   <canvas id="sales-chart" height="80"></canvas>
                 </div>
-                <div class="card-icon shadow-primary bg-wrning">
+                <div class="card-icon shadow-primary bg-primary">
                   <i class="fas fa-shopping-bag"></i>
                 </div>
                 <div class="card-wrap">

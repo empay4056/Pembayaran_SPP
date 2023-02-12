@@ -126,7 +126,7 @@ include "../template_spp/sidebar.php";
                   <td>1</td>
                   <td class="font-weight-600">2122.10.337</td>
                   <td>
-                    <div>Albretus</div>
+                    <div>Thaifiqurrohman al gifari </div>
                   </td>
                   <td>2023-02-12</td>
                   <td>
@@ -138,7 +138,7 @@ include "../template_spp/sidebar.php";
                   <td>2</td>
                   <td class="font-weight-600">2122.10.343</td>
                   <td>
-                    <div>Dika</div>
+                    <div>Razka putra widiansyah</div>
                   </td>
                   <td>2023-02-12</td>
                   <td>
@@ -150,7 +150,7 @@ include "../template_spp/sidebar.php";
                   <td>3</td>
                   <td class="font-weight-600">2122.10.360</td>
                   <td>
-                    <div>Mahen</div>
+                    <div>Muhammad rafly</div>
                   </td>
                   <td>2023-02-12</td>
                   <td>
@@ -162,7 +162,7 @@ include "../template_spp/sidebar.php";
                   <td>4</td>
                   <td class="font-weight-600">2122.10.336</td>
                   <td>
-                    <div>Adnan</div>
+                    <div>Farhan Rafif</div>
                   </td>
                   <td>2023-02-12</td>
                   <td>
