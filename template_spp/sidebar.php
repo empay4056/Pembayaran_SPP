@@ -15,25 +15,25 @@
               <a href="../petugas/crud-Data-Petugas.php" class="nav-link "><i class="fas fa-fire"></i><span>Crud Data petugas </span></a>
             </li>
             <li >
-              <a href="../siswa/cdrud_data_siswa.php" class="nav-link "><i class="fas fa-fire"></i><span>Crud Data siswa</span></a>
+              <a href="../siswa/cdrud_data_siswa.php" class="nav-link "><i class="fas fa-atom"></i><span>Crud Data siswa</span></a>
             </li>
             <li >
-              <a href="../kelas/crus_kelas.php" class="nav-link "><i class="fas fa-fire"></i><span>Cruud Data kelas</span></a>
+              <a href="../kelas/crus_kelas.php" class="nav-link "><i class="fas fa-bowling-ball"></i><span>Cruud Data kelas</span></a>
             </li>
             <li >
-              <a href="../spp/crud_spp.php" class="nav-link "><i class="fas fa-fire"></i><span>Crud Data Spp</span></a>
+              <a href="../spp/crud_spp.php" class="nav-link "><i class="fas fa-thumbs-up"></i><span>Crud Data Spp</span></a>
             </li>
             <li >
-              <a href="../transaksi/transaksi.php" class="nav-link "><i class="fas fa-fire"></i><span>Entry Transaksi</span></a>
+              <a href="../transaksi/transaksi.php" class="nav-link "><i class="fas fa-thumbs-down"></i><span>Entry Transaksi</span></a>
             </li>
             <li >
-              <a href="../history/history.php" class="nav-link "><i class="fas fa-fire"></i><span>History pembayaran</span></a>
+              <a href="../history/history.php" class="nav-link "><i class="fas fa-dragon"></i><span>History pembayaran</span></a>
             </li>
                  
             
           <div class="mt-4 mb-4 p-3 hide-sidebar-mini">
-            <a href="../log_in/log-in.php" class="btn btn-warning btn-lg btn-block btn-icon-split">
-              <i class="fas fa-american-sign-language-interpreting"></i> Log-out
+            <a href="../log_in/log-in.php" class="btn btn-primary btn-lg btn-block btn-icon-split">
+              <i class="fas fa-bolt"></i> Log-out
             </a>
           </div>        </aside>
       </div>
